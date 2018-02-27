@@ -1,0 +1,7 @@
+Here is how to start Archie:
+
+Use archie.exe (archie64.exe for 64-bit systems) to run Archie on Windows.
+Use archie.bat as an alternative if the exe doesn't work.
+Use archie on Linux & Unix systems (including macOS).
+
+Oh yeah and you need nodejs which you can get at https://nodejs.org
